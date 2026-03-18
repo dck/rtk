@@ -124,6 +124,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Bug Fixes
 
 * remove all decorative emojis from CLI output ([#687](https://github.com/rtk-ai/rtk/issues/687)) ([#686](https://github.com/rtk-ai/rtk/issues/686)) ([4792008](https://github.com/rtk-ai/rtk/commit/4792008fc15553cbb9aeaa602f773a5f8f7f7afe))
+* prefer `bunx` over `npx` as the fallback for `ccusage` in `rtk cc-economics`
 
 ## [0.30.0](https://github.com/rtk-ai/rtk/compare/v0.29.0...v0.30.0) (2026-03-16)
 
